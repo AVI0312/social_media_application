@@ -1,6 +1,6 @@
 # **Social Media Application**
 
-This project is a social media platform inspired by Instagram, developed using Java to allow users to connect, share, and explore an endless stream of content and interactions.  
+A social media platform inspired by Instagram, built using Java to enable users to connect, share posts, and engage with a continuous flow of content.
 The application enables users to create profiles, post images, and interact with other users' content in real-time. Designed to emulate the look and feel of Instagram, this project demonstrates full-stack development skills, cloud deployment, and third-party service integration.
 
 ## **Key Features**
@@ -16,22 +16,22 @@ The application enables users to create profiles, post images, and interact with
 -> Firebase was used for authentication and cloud storage integration, allowing secure and scalable data management.
 
 ## Tech Stack  
-### ***Frontend:***
-React.js  
-CSS3  
+### Frontend:
+-> React.js  
+-> CSS3  
 
 ### Backend:  
-Java  
-Spring Boot (REST API)  
+-> Java  
+-> Spring Boot (REST API)  
 
 ### Cloud & Services:  
-Firebase (Authentication & Storage)  
-Cloud Server (e.g., Heroku, AWS, or similar)  
+-> Firebase (Authentication & Storage)  
+-> Cloud Server (e.g., Heroku, AWS, or similar)  
 
 ### Tools & Technologies:  
-Git & GitHub  
-JSON  
-Postman (API testing)
+-> Git & GitHub  
+-> JSON  
+-> Postman (API testing)
 
 
 <img width="1440" alt="107745731-c07ed380-6d3a-11eb-88a6-9c0fc4413763" src="https://github.com/user-attachments/assets/1f38ddfb-539b-4da8-9b7a-619c906ae6dd">
