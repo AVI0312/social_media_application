@@ -16,7 +16,7 @@ The application enables users to create profiles, post images, and interact with
 -> Firebase was used for authentication and cloud storage integration, allowing secure and scalable data management.
 
 ## Tech Stack  
-### <u>Frontend:</u>
+### ***Frontend:***
 React.js  
 CSS3  
 
