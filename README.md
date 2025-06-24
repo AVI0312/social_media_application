@@ -15,20 +15,20 @@ The application enables users to create profiles, post images, and interact with
 -> After successful integration of the frontend and backend, the entire application was deployed to a cloud server.  
 -> Firebase was used for authentication and cloud storage integration, allowing secure and scalable data management.
 
-## Tech Stack
-Frontend:  
+## Tech Stack  
+### Frontend:  
 React.js  
 CSS3  
 
-Backend:  
+### Backend:  
 Java  
 Spring Boot (REST API)  
 
-Cloud & Services:  
+### Cloud & Services:  
 Firebase (Authentication & Storage)  
 Cloud Server (e.g., Heroku, AWS, or similar)  
 
-Tools & Technologies:  
+### Tools & Technologies:  
 Git & GitHub  
 JSON  
 Postman (API testing)
