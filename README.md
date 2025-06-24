@@ -3,7 +3,7 @@
 This project is a social media platform inspired by Instagram, developed using Java to allow users to connect, share, and explore an endless stream of content and interactions.  
 The application enables users to create profiles, post images, and interact with other users' content in real-time. Designed to emulate the look and feel of Instagram, this project demonstrates full-stack development skills, cloud deployment, and third-party service integration.
 
-## ** Key Features**
+## **Key Features**
 -> User registration and authentication  
 -> Image upload and post sharind  
 -> Responsive UI inspired by Instagram  
